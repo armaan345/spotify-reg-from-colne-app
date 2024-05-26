@@ -1,0 +1,119 @@
+.logo h1{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: +200px;
+    color: aliceblue;
+}
+.logo h2{
+    position: absolute;
+    margin-left: 85px;
+    margin-top: +250px;
+    font-size: 30px;
+    color: aliceblue;
+}
+.logo img{ 
+    height: 130px;
+    position: absolute;
+    margin-left: 120px;
+    margin-top: +50px;
+}
+.btn1{
+    position: absolute;
+    margin-top: +350px;
+    margin-left: 75px;
+    width: 200px;
+    height: 40px; 
+    border-radius: 10px;
+}
+
+.btn2{
+    position: absolute;
+    margin-top: +400px;
+    margin-left: 75px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+.btn3{
+    position: absolute;
+    margin-top: +450px;
+    margin-left: 75px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+.btn4{
+    position: absolute;
+    margin-top: +500px;
+    margin-left: 75px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+.btn5{
+    position: absolute;
+    margin-top: +550px;
+    margin-left: 75px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+@media screen and ( max-width=756) {
+    .logo h1{
+        position: absolute;
+        margin-left: 70px;
+        margin-top: +200px;
+    }
+    .logo h2{
+        position: absolute;
+        margin-left: 85px;
+        margin-top: +250px;
+        font-size: 30px;
+    }
+    .logo img{ 
+        height: 130px;
+        position: absolute;
+        margin-left: 120px;
+        margin-top: +50px;
+    }
+    .btn1{
+        position: absolute;
+        margin-top: +350px;
+        margin-left: 75px;
+        width: 200px;
+        height: 40px;
+        border-radius: 10px;
+    }
+    .btn2{
+        position: absolute;
+        margin-top: +400px;
+        margin-left: 75px;
+        width: 200px;
+        height: 40px;
+        border-radius: 10px;
+    }
+    .btn3{
+        position: absolute;
+        margin-top: +450px;
+        margin-left: 75px;
+        width: 200px;
+        height: 40px;
+        border-radius: 10px;
+    }
+    .btn4{
+        position: absolute;
+        margin-top: +500px;
+        margin-left: 75px;
+        width: 200px;
+        height: 40px;
+        border-radius: 10px;
+    }
+    .btn5{
+        position: absolute;
+        margin-top: +550px;
+        margin-left: 75px;
+        width: 200px;
+        height: 40px;
+        border-radius: 10px;
+    }
+}
